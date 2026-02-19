@@ -1,4 +1,4 @@
-# ESP32 Geliştirme Deposu
+# ESP32 Geliştirme
 
 Bu repo, ESP32 ve C/C++ kullanarak geliştirdiğim gömülü sistem ve IoT projelerini içerir.
 
