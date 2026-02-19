@@ -15,4 +15,3 @@ PlatformIO, `src` klasöründeki tüm `.cpp` dosyalarını aynı anda derlemeye 
 * **Çözüm:** O an üzerinde çalışmadığınız projelerin uzantısını `.cpp` yerine `.txt` yaparak derleyiciden gizleyin. (Örn: `01_Blink.txt`)
 
 ---
-**Geliştirici:** Mehmet Alp Arslan 
