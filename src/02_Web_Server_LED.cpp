@@ -21,7 +21,6 @@ String getHtml() // mikrodenetleyici üzerinde dosya sistemi kurmak yerine tüm 
 
 void setup() 
 {
-  digitalWrite(LED_PIN, HIGH);
   Serial.begin(9600); // termianl ile haberleşme için
   pinMode(LED_PIN, OUTPUT); // esp32 üzerinde ki mavi ledi çıkış olarak ayarladık
   WiFi.begin(WifiName, psw); //modeme bağlantı kurmak için 

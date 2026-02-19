@@ -16,3 +16,7 @@ PlatformIO, `src` klasöründeki tüm `.cpp` dosyalarını aynı anda derlemeye 
 
 ---
 **Geliştirici:** Mehmet Alp Arslan 
+
+## 📖 Proje Hakkında
+
+Bu depo, ESP32 mikrodenetleyicisi için geliştirilen C/C++ tabanlı uygulamaları barındırır. Temel donanım kontrolünden (GPIO) başlayarak, yerel ağ üzerinden cihaz yönetimi (Web Server) ve IoT konseptlerine kadar uzanan pratik eğitim projelerini içermektedir. Temel amaç, gömülü sistemler ve ağ haberleşmesi alanındaki çalışmaları adım adım ve modüler bir yapıda dokümante etmektir.
