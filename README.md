@@ -2,6 +2,10 @@
 
 Bu repo, ESP32 ve C/C++ kullanarak geliştirdiğim gömülü sistem ve IoT projelerini içerir.
 
+## 📖 Proje Hakkında
+
+Bu depo, ESP32 mikrodenetleyicisi için geliştirilen C/C++ tabanlı uygulamaları barındırır. Temel donanım kontrolünden (GPIO) başlayarak, yerel ağ üzerinden cihaz yönetimi (Web Server) ve IoT konseptlerine kadar uzanan pratik eğitim projelerini içermektedir. Temel amaç, gömülü sistemler ve ağ haberleşmesi alanındaki çalışmaları adım adım ve modüler bir yapıda dokümante etmektir.
+
 ## 📂 Projeler
 * **01_Blink:** Temel GPIO kontrolü (LED yakıp söndürme).
 * **02_Web_Server_LED:** Yerel ağ üzerinden web arayüzü ile donanım kontrolü.
@@ -17,6 +21,3 @@ PlatformIO, `src` klasöründeki tüm `.cpp` dosyalarını aynı anda derlemeye 
 ---
 **Geliştirici:** Mehmet Alp Arslan (KTÜ Yazılım Mühendisliği)
 
-## 📖 Proje Hakkında
-
-Bu depo, ESP32 mikrodenetleyicisi için geliştirilen C/C++ tabanlı uygulamaları barındırır. Temel donanım kontrolünden (GPIO) başlayarak, yerel ağ üzerinden cihaz yönetimi (Web Server) ve IoT konseptlerine kadar uzanan pratik eğitim projelerini içermektedir. Temel amaç, gömülü sistemler ve ağ haberleşmesi alanındaki çalışmaları adım adım ve modüler bir yapıda dokümante etmektir.
